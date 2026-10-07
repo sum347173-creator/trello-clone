@@ -18,8 +18,8 @@
   </div>
   <h3 align="center">Build a Trello‑Style App with Next.js, Supabase, Clerk & dnd‑kit</h3>
   <div align="center">
-    Follow the full video tutorial on  
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
+
+  
   </div>
   <br />
 </div>
@@ -39,7 +39,7 @@
 
 In this tutorial, you’ll learn how to build a production‑ready **Trello‑Style App** using **Next.js**, **Supabase**, **Clerk**, **dnd‑kit**, and **TailwindCSS**. You’ll implement **real‑time data**, **authentication & billing**, **drag‑and‑drop**, and **filtering**, all deployed to Vercel.
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/ugxI1o5SyMs)
+
 
 ---
 
