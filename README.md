@@ -33,10 +33,11 @@ trello-clone/
 ## 📸 Screenshots
 
 ### Board View
-![Board View](screenshots/board.png)
+![Board View](screenshots/Board%20View.png)
 
 ### Task Cards
-![Task Cards](screenshot/cards.png)
+![Task Cards](screenshots/Task%20Cards.png)
+
 
 ## 🚀 How to Run
 
