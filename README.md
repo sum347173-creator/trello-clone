@@ -36,7 +36,7 @@ trello-clone/
 ![Board View](screenshots/board.png)
 
 ### Task Cards
-![Task Cards](screenshots/cards.png)
+![Task Cards](screenshot/cards.png)
 
 ## 🚀 How to Run
 
